@@ -1,0 +1,10 @@
+{
+    "name": "admin/projetola03",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
