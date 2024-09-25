@@ -22,6 +22,7 @@
 
           
             <input type="submit" value="submit">
+            <a href="cadastro.php">Cadastrar-se</a>
             
             
             </center>
